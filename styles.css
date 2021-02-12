@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.text {
+    border: 1.5px solid black;
+    font-size: 20px;
+    display: inline;
+    background-color: #e3e3e3;
+    text-align:center;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.x {
+    background-color: #fa3628;
+    border: 1px solid black;
+    cursor: pointer; 
+    border-radius: 5px;
+    padding: 3px;
+    width: 20px;
+    font-size: 20px;
+    display: inline;
+    margin-left: 2px;
+}
+
+.x:hover {
+    background-color: #ba0000;
+    color: white;
+  }
